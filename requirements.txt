@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pandas>=2.0
+pydantic>=2.0
+
+# Optional (only needed if you enable USE_LLM_RAG=1)
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
