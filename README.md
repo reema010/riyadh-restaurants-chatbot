@@ -9,7 +9,7 @@ The chatbot supports filtering by neighborhood/area, cuisine/category, rating th
 * `index_fixed.html` — Simple web-based user interface
 * `data/riyadh_restaurants_clean_exported.csv` — Cleaned restaurant dataset
 
-  ## Data Preparation
+## Data Preparation
 The dataset was cleaned and preprocessed using a dedicated Python script located in `scripts/data_cleaning.py`.
 
 
